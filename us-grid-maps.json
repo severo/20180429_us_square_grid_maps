@@ -34,5 +34,5 @@
     "reference": "http://blog.apps.npr.org/2015/05/11/hex-tile-maps.html",
     "dataReference": "https://github.com/kristw/gridmap-layout-usa/blob/master/src/input/tiles_npr.csv",
     "file": "https://raw.githubusercontent.com/severo/20180429_us_square_grid_maps/master/gridmap_npr.csv"
-  },
+  }
 ]
