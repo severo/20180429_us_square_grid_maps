@@ -3,36 +3,42 @@
     "name": "New York Times",
     "reference": "http://www.nytimes.com/interactive/2013/06/26/us/scotus-gay-marriage.html",
     "dataReference": "https://github.com/kristw/gridmap-layout-usa/blob/master/src/input/tiles_nyt.csv",
-    "file": "https://raw.githubusercontent.com/severo/20180429_us_square_grid_maps/master/gridmap_nyt.csv"
+    "file": "https://raw.githubusercontent.com/severo/20180429_us_square_grid_maps/master/gridmap_nyt.csv",
+    "withDC": true
   },
   {
     "name": "Washington Post",
     "reference": "https://www.washingtonpost.com/graphics/health/how-fast-does-measles-spread/",
     "dataReference": "https://github.com/kristw/gridmap-layout-usa/blob/master/src/input/tiles_wp.csv",
-    "file": "https://raw.githubusercontent.com/severo/20180429_us_square_grid_maps/master/gridmap_wp.csv"
+    "file": "https://raw.githubusercontent.com/severo/20180429_us_square_grid_maps/master/gridmap_wp.csv",
+    "withDC": true
   },
   {
     "name": "FiveThirtyEight",
     "reference": "http://fivethirtyeight.com/features/where-your-state-gets-its-money/",
     "dataReference": "https://github.com/kristw/gridmap-layout-usa/blob/master/src/input/tiles_538.csv",
-    "file": "https://raw.githubusercontent.com/severo/20180429_us_square_grid_maps/master/gridmap_538.csv"
+    "file": "https://raw.githubusercontent.com/severo/20180429_us_square_grid_maps/master/gridmap_538.csv",
+    "withDC": false
   },
   {
     "name": "The Guardian",
     "reference": "http://www.theguardian.com/us-news/ng-interactive/2014/oct/22/-sp-voting-rights-identification-how-friendly-is-your-state",
     "dataReference": "https://github.com/kristw/gridmap-layout-usa/blob/master/src/input/tiles_guardian.csv",
-    "file": "https://raw.githubusercontent.com/severo/20180429_us_square_grid_maps/master/gridmap_guardian.csv"
+    "file": "https://raw.githubusercontent.com/severo/20180429_us_square_grid_maps/master/gridmap_guardian.csv",
+    "withDC": true
   },
   {
     "name": "Bloomberg",
     "reference": "http://www.bloomberg.com/graphics/2015-pace-of-social-change/",
     "dataReference": "https://github.com/kristw/gridmap-layout-usa/blob/master/src/input/tiles_bloomberg.csv",
-    "file": "https://raw.githubusercontent.com/severo/20180429_us_square_grid_maps/master/gridmap_bloomberg.csv"
+    "file": "https://raw.githubusercontent.com/severo/20180429_us_square_grid_maps/master/gridmap_bloomberg.csv",
+    "withDC": false
   },
   {
     "name": "National Public Radio",
     "reference": "http://blog.apps.npr.org/2015/05/11/hex-tile-maps.html",
     "dataReference": "https://github.com/kristw/gridmap-layout-usa/blob/master/src/input/tiles_npr.csv",
-    "file": "https://raw.githubusercontent.com/severo/20180429_us_square_grid_maps/master/gridmap_npr.csv"
+    "file": "https://raw.githubusercontent.com/severo/20180429_us_square_grid_maps/master/gridmap_npr.csv",
+    "withDC": true
   }
 ]
